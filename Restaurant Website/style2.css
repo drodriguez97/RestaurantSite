@@ -1,0 +1,62 @@
+
+@font-face {
+    font-family: "myfont";
+    src: url("fonts/mexican fiesta Bold.woff");
+}
+
+
+h1, h2{
+    font-family: "myfont", "Arial Narrow",Arial,sans-serif;
+    font-size: 65px;
+    font-weight: 500;
+	font-style: normal;
+	font-variant: normal;
+	line-height:70px;
+    justify-content: center;
+    display: flex;
+}
+
+
+
+p{
+    
+}
+
+	#rest{
+		  
+		 
+		 text-align:right;
+		 }
+
+		 
+		  }
+		  p{
+		  font-size:22px;
+		  }
+		  
+
+
+                  
+		  }
+		  p,label{
+		  font-size:2px;
+		  }
+	
+h6{ font-size: 24;
+   font-weight: 800;
+    padding-bottom: 10px;
+}
+	#mains{ padding: inherit;
+        background-color: beige;
+        background-size: cover;
+        padding-bottom: 0px;
+  font-family: Verdana,sans-serif;	
+			float: left;
+	       		width: 100%;
+			text-align: center;
+        
+    
+	}
+	}
+
+

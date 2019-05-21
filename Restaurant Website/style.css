@@ -1,0 +1,27 @@
+
+@font-face {
+    font-family: "myfont";
+    src: url("fonts/mexican fiesta Bold.woff");
+}
+
+
+h1{
+    font-family: "myfont", "Arial Narrow",Arial,sans-serif;
+    font-size: 65px;
+    font-weight: 400;
+	font-style: normal;
+	font-variant: normal;
+	line-height:70px;
+    justify-content: center;
+    display: flex;
+}
+
+
+*
+{
+   margin:  0;
+   padding: 0;
+}
+p{
+     font-family: "Verdana",sans-serif; !important
+}
